@@ -25,6 +25,7 @@ namespace DesafioPOO.Models
             Console.WriteLine("Recebendo ligação...");
         }
 
+        //Nova instância
         public virtual void InstalarAplicativo(string nomeApp)
         {
         }
